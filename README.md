@@ -1,8 +1,12 @@
-# Get out to vote
+# Get out to vote (GOTV)
 
 This is a basic "Get out to vote" model, with a strategy to select places that would win extra seats
 to the selected political party, according to the d'Hont rule. It uses real voting data for the
 european elections in Spain in 2014.
+
+As an exercise, it calculates de 120 places where the GOTV approach would get an extra seat to the spanish party Podemos.
+
+[![Mapa](https://github.com/brunosan/europeas/blob/master/mapa.png?raw=true)](https://api.mapbox.com/styles/v1/brunosan/cjrqhp83x7hbv2snvsfucfp3o.html?fresh=true&title=true&access_token=pk.eyJ1IjoiYnJ1bm9zYW4iLCJhIjoic3FUc1dJWSJ9.v0525WacYWcsHM1KtbZitg#4.4/41.890731/6.571492/0)
 
 ## Strategy
 
