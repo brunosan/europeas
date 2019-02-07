@@ -45,3 +45,9 @@ for i in $( ls sql/ ); do echo $i ; mysql -uroot -ppassword europeas < sql/$i ; 
 ```
 
 Look at [Elecciones Europeas.ipynb](Elecciones%20Europeas.ipynb) for the entire code.
+
+--
+
+Contact info: brunosan@gmail.com
+
+License: MIT
