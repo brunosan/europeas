@@ -11,7 +11,7 @@ Calculate which places vote less than average. Then of those, figure out which o
 
 Example location:
 
-![](plots/Soto del barco-00.png)
+![plot for Soto del Barco](https://github.com/brunosan/europeas/blob/master/plots/Soto%20del%20Barco-00.png?raw=true)
 
 In the image above, each graph uses the same style. In blue is the national histogram, then in orange is a smoothed histogram using a gaussian kernel (this means that the integral is not 1, but it helps ientify the maximum of the histogram). In red is the value corresponding to the particular place of the graph. Top left shows the participation rate, then each row (left to right, top to bottom) shows the top 5 parties with most votes. In the titles of the graph is the party name, and the actual value of votes for that location (not the % as the x-axis). On the top left chart, the one with the participation rate, the title shows the census for that location. On the x-axis, I use the range 1 to 99 percentile to have prettier graphs. The y-axis is auto-scaled to the individual range.
 
